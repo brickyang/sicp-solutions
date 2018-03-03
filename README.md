@@ -10,7 +10,7 @@
 3. 进入 /Contents/Resources/ 目录，双击 mit-scheme
 4. 看到如下图内容，运行成功
 
-![mit-scheme-bash](/Users/brick/code/sicp-solutions/resources/mit-scheme-bash.png)
+![mit-scheme-bash](./resources/mit-scheme-bash.png)
 
 这就是 MIT/GNU Scheme 运行环境，我们可以在这里进行 Scheme 编程，完成习题。但是每次都要这样启动不太方便，所以我们做一个方便启动的软连接。
 
@@ -36,7 +36,7 @@ $ source ~/.bash_profile
 $ scheme
 ```
 
-![mit-scheme-iterm2](/Users/brick/code/sicp-solutions/resources/mit-scheme-iterm2.png)
+![mit-scheme-iterm2](./resources/mit-scheme-iterm2.png)
 
 ## 一些快捷键
 
